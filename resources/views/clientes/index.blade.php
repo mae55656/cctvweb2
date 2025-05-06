@@ -8,6 +8,7 @@
     <h1>Clientes Registrados</h1>
 
     <a href="{{ route('clientes.create') }}">Registrar nuevo cliente</a>
+<!-- Agregado solo para probar Pull Request -->
 
     <table border="1" cellpadding="10">
         <thead>
